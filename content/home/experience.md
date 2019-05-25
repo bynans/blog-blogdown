@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false
-active = true  # Activate this widget? true/false
+active = false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
