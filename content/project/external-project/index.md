@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2019-05-26T00:00:00Z"
+external_link: https://bynans.shinyapps.io/app-autopistas-urbanas/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by yns plt on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Aplicación en Shiny sobre tráfico e incidentes en autopistas porteñas.
 tags:
 - Demo
-title: External Project
+title: Autopistas urbanas
 ---
