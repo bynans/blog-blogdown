@@ -21,13 +21,7 @@ subtitle = ""
 #  description = "100%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Estadística"
-#  description = "50%"  
-  
-[[feature]]
-  icon = "Books"
+  icon = "book"
   icon_pack = "fas"
   name = "Libros"
 #  description = "80%"
