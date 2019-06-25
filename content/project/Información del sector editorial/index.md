@@ -1,10 +1,11 @@
 ---
-title: "Autopistas urbanas"
+date: "2019-05-26T00:00:00Z"
 external_link: https://bynans.shinyapps.io/app-autopistas-urbanas/
-date: '2019-05-26T00:00:00Z'
-summary: App en Shiny sobre incidentes en autopistas porteñas.
-tags: Demo
 image:
   caption: Photo by yns plt on Unsplash
   focal_point: Smart
+summary: App en Shiny sobre incidentes en autopistas porteñas.
+tags:
+- Demo
+title: Autopistas urbanas
 ---
