@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Me interesa la aplicación de data analytics y machine learning al sector editorial y a las ciencias sociales.
 
-intereses:
+interests:
 - Análisis y visualización de datos
 - Aprendizaje automático
 - Programación
 
-educación:
+education:
   courses:
   - course: Lic. en Ciencias de la Comunicacion Social
-    institution: Stanford University
-    year: 2012
+    institution: U.B.A.
+    year: 2019
   - course: Edicion
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: U.B.A.
+    year: 2019
   - course: Programa Data Scientist
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: EANT
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
