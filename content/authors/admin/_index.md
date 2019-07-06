@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Adscripta en Marketing Editorial
+role: Marketing Editorial
 
 # Organizations/Affiliations
 organizations:
@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Me interesa la aplicación de data analytics y machine learning al sector editorial y a las ciencias sociales.
 
-interests:
-- Análisis y visualización de datos
-- Aprendizaje automático
-- Programación
+#interests:
+#- Análisis y visualización de datos
+#- Aprendizaje automático
+#- Programación
 
-education:
-  courses:
-  - course: Lic. en Ciencias de la Comunicacion Social
-    institution: U.B.A.
-    year: 2019
-  - course: Edicion
-    institution: U.B.A.
-    year: 2019
-  - course: Programa Data Scientist
-    institution: EANT
-    year: 2018
+#education:
+#  courses:
+#  - course: Lic. en Ciencias de la Comunicacion Social
+#    institution: U.B.A.
+#    year: 2019
+#  - course: Edicion
+#    institution: U.B.A.
+#    year: 2019
+#  - course: Programa Data Scientist
+#    institution: EANT
+#    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -62,9 +62,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Estudié Edición y Ciencias de la Comunicación Social. Llegué al mundo de los datos estudiando herramientas de visualización, y desde ese momento no dejé de estudiar R, Python y estadística.
