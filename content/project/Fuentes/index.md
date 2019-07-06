@@ -2,7 +2,7 @@
 title: Información del sector editorial argentino
 summary: Una tabla interactiva con fuentes de información sobre el mundo editorial local.
 tags:
-- Demo
+- Sector Editorial
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

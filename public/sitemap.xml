@@ -116,7 +116,7 @@
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/tags/dashboards/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -138,12 +138,13 @@
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/tags/sector-editorial/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

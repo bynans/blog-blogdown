@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>Dashboards</title>
+      <link>/tags/dashboards/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/dashboards/</guid>
       <description></description>
     </item>
     
@@ -35,6 +35,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sector Editorial</title>
+      <link>/tags/sector-editorial/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sector-editorial/</guid>
       <description></description>
     </item>
     
