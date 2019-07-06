@@ -125,15 +125,6 @@
     </item>
     
     <item>
-      <title>Autopistas urbanas</title>
-      <link>/project/informacion-del-sector-editorial/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/informacion-del-sector-editorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example preprint / working paper</title>
       <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -352,11 +343,29 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Autopistas Urbanas</title>
+      <link>/project/autopistas-urbanas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/autopistas-urbanas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>External Project</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Información del sector editorial argentino</title>
+      <link>/project/fuentes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fuentes/</guid>
       <description></description>
     </item>
     
