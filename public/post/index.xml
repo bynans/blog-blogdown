@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Blog Personal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Mining e Industria Editorial</title>
+      <link>/post/data-mining-e-industria-editorial/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-mining-e-industria-editorial/</guid>
+      <description>&lt;iframe src=&#34;https://onedrive.live.com/embed?cid=B9BB54C1ABD9A1D0&amp;amp;resid=B9BB54C1ABD9A1D0%21111&amp;amp;authkey=AJn1fSotRl3NvnE&amp;amp;em=2&amp;amp;wdAr=1.7777777777777777&#34; width=&#34;962px&#34; height=&#34;565px&#34; frameborder=&#34;0&#34;&gt;Esto es un documento de &lt;a target=&#34;_blank&#34; href=&#34;https://office.com&#34;&gt;Microsoft Office&lt;/a&gt; incrustado con tecnología de &lt;a target=&#34;_blank&#34; href=&#34;https://office.com/webapps&#34;&gt;Office Online&lt;/a&gt;.&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>

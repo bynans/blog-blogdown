@@ -4,4 +4,3 @@
 .Ruserdata
 blogdown
 Thumbs.db # if a windows user, Thumbs.db instead
-public/ # if using Netlify
