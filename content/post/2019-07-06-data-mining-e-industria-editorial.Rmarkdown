@@ -5,8 +5,8 @@ date: '2019-07-06'
 slug: data-mining-e-industria-editorial
 categories: []
 tags: []
-subtitle: ''
-summary: ''
+subtitle: 'Una ponencia sobre bestsellers y minería de datos'
+summary: 'Una ponencia sobre bestsellers y minería de datos'
 authors: []
 lastmod: '2019-07-06T17:41:26-03:00'
 featured: no
@@ -16,4 +16,11 @@ image:
   preview_only: no
 projects: []
 ---
-<iframe src="https://onedrive.live.com/embed?cid=B9BB54C1ABD9A1D0&amp;resid=B9BB54C1ABD9A1D0%21111&amp;authkey=AJn1fSotRl3NvnE&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+**El 11 de junio se llevó a cabo el 2° Congreso de Tendencias en la Industria Editorial. Además de ayudar a organizar el evento me permití presentar una pequeña ponencia que une dos temas que me apasionan: El mundo del libro y el análisis de datos**
+
+Es muy dificil encontrar estudios de data mining y machine learning sobre el mundo del libro, más aún en español. Mi objetivo con la presentación en el Congreso era divulgar algunos estudios notables que aplicaron minería de datos, algoritmos y aprendizaje automático al sector editorial.
+
+El desafío consistía en poder transmitir a una audiencia no técnica (pero altamente especializada en el mundo de la edición de libros) la especificidad de las técnicas novedosas de machine learning, sin descuidar sus profundas raíces en el análisis estadístico y el importante papel que juega el conocimiento del campo en este tipo de análisis.
+
+Lxs asistentes a la ponencia, compuesta principalmente por estudiantes de la Carrera de Edición (UBA) e integrantes de empresas pequeñas y medianas de edición de libros, la recibieron con mucho interés :rocket:
+<iframe src="https://onedrive.live.com/embed?cid=B9BB54C1ABD9A1D0&amp;resid=B9BB54C1ABD9A1D0%21111&amp;authkey=AJn1fSotRl3NvnE&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">Esto es un documento de <a target="_blank" href="https://office.com">Microsoft Office</a> incrustado con tecnología de <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
