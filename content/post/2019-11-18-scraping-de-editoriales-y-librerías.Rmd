@@ -16,7 +16,6 @@ image:
   preview_only: no
 projects: []
 ---
-
 **Este año fui parte de la primera camada del curso Social Data Analytics impartido por EANT. Como no podía ser de otra manera, mi trabajo final fue sobre el sector editorial local**
 
 En la cursada intensiva repasamos los fundamentos de la programación orientada a objetos, el trabajo con bases de datos y la interacción con APIs. En el segundo módulo, "Data Science para las Ciencias Sociales", aplicamos técnicas de web scraping y text mining en Python a diversos corpus.
