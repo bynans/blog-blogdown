@@ -22,4 +22,4 @@ En la cursada intensiva repasamos los fundamentos de la programación orientada 
 
 En mi trabajo final elegí llevar a cabo una limitada auditoría de uso de redes sociales de librerías y editoriales con actividad en argentina. Para scrapear Twitter utilicé la librería TwitterAPI y Pandas para manejar los datos: en el caso de Instagram, fue necesario utilizar InstagramAPI y modificar una serie de funciones para poder scrapear feeds enteros y los comentarios recibidos por una cuenta desde su creación. 
 
-<iframe src="https://onedrive.live.com/embed?cid=B9BB54C1ABD9A1D0&resid=B9BB54C1ABD9A1D0%21117&authkey=APN0bBSfdRYge74&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=B9BB54C1ABD9A1D0&resid=B9BB54C1ABD9A1D0%21117&authkey=APN0bBSfdRYge74&em=2" width="610" height="367" frameborder="0" scrolling="no"></iframe>
